@@ -12,7 +12,6 @@ Este proyecto tiene como objetivo mostrar la secuencia de Fibonacci y realizar a
   - Los números pares de la secuencia de Fibonacci entre 0 y 1000.
   - Los números impares de la secuencia de Fibonacci entre 0 y 1000.
 
-**Hint**: Puedes usar recursividad, ciclos o métodos iteradores vistos en clase.
 
 - **Archivo**: `fibonacci.js`
 
